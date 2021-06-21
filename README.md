@@ -1,2 +1,2 @@
-# Whack_a_mole
+# whack_a_mole_game
 Created with CodeSandbox
